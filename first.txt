@@ -1,0 +1,16 @@
+This is first version of our app;
+I want this to be commited
+
+git status
+
+git init
+
+git add --a
+
+git commit -m "Message write"
+
+git log
+
+rm -rf .git
+
+git clone link (name you want to give)
