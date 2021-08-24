@@ -14,3 +14,8 @@ git log
 rm -rf .git
 
 git clone link (name you want to give)
+
+create a file .gitignore
+and add all those filename or foldersname you want to ignore
+
+
