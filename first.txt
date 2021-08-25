@@ -25,3 +25,5 @@ git diff
 git diff --staged
 (compare last commit with current staging area)
 
+git commit -a -m "Direct commit message"
+(commit tracked files)
