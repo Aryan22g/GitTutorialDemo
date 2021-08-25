@@ -19,3 +19,9 @@ create a file .gitignore
 and add all those filename or foldersname you want to ignore
 
 
+git diff
+(compare staging area with working directory)
+
+git diff --staged
+(compare last commit with current staging area)
+
