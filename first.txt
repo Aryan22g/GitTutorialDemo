@@ -27,3 +27,11 @@ git diff --staged
 
 git commit -a -m "Direct commit message"
 (commit tracked files)
+
+git rm fiilename
+(to delete a file)
+git mv filename newfilename
+(to rename a file )
+
+git rm --cached filename
+before moving a file to gitignore first make it untrack
