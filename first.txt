@@ -58,3 +58,10 @@ git log --since=2.months
 git log --pretty=format:"%h -- %an"	-->>search this line on google youll find much more intreseting strings there
 
 git log --amend	//previous commit ko change kr skte hain
+
+
+git restore --staged filename
+
+git checkout -- filename (galti se change ho jaae aur sirf ek file ke lie aap wapas jaana chahte ho)
+
+git checkout -f(working directory ko pichle commit se millane ke lie jo changes hue hain wo sb undo ho jaenge)
