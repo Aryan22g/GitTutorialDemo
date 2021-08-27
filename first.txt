@@ -35,3 +35,26 @@ git mv filename newfilename
 
 git rm --cached filename
 before moving a file to gitignore first make it untrack
+
+
+git log -p
+
+git log -p (-1 or-2)	-->>no. of lines of commit you want to see
+
+git log --stat
+
+git log --pretty=one line
+
+git log --pretty=short
+
+git log --pretty=full
+
+Author(who has created file) and commiter(who commits in the file)
+
+git log --since=2.days
+
+git log --since=2.months
+
+git log --pretty=format:"%h -- %an"	-->>search this line on google youll find much more intreseting strings there
+
+git log --amend	//previous commit ko change kr skte hain
